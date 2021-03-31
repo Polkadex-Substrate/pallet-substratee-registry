@@ -29,7 +29,7 @@ branch = "rococo-v1"
 default-features = false
 git = "https://github.com/paritytech/substrate.git" 
 branch = "rococo-v1"
-features = ["disable_panic_handler", "disable_oom"]
+#features = ["disable_panic_handler", "disable_oom"]
 
 [dependencies.sp-core]
 default-features = false
